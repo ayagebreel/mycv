@@ -1,0 +1,38 @@
+#colo{background-color:pink;}
+.colo2{background-image:url("background25.jpg"); width:"1700";
+       height:"250"; 
+        }
+.colorlink{color:000066;}
+.bold {font-weight: bold ;}
+.colorlink2{color:0066ff;}
+.colorpages{color:00ff33;}
+.font{font:bold 24pt castellar;}
+.color5{color:0000cc;}
+.marginbottom{margin-bottom:10%;}
+.marginright{margin-right:80%;}
+.marginleft{margin-left:10%;}
+.float1{float:left; width:20%;}
+.float2{float:left; width:60%;}
+.clear{clear:both;}
+a:hover {color:#FF00FF;  background-color: 00cccc; width:5%} 
+.float3{float:left; width:30%;}
+.float4{float:left; width:40%;} 
+.font2{font:bold 24pt Comic Sans MS;}
+.marginleft2{margin-left:20%;}
+.float6{float:left; width:40%;}
+.marginright2{margin-right:5%;}
+.marginleft3{margin-left:90%}
+.font3{font:bold 18pt Comic Sans MS;}
+.font4{font:bold 18pt Arial (Body CS);}
+.float5{float:left; width:60%;}
+.colo3{background-image:url("background16.jpg"); width="1700";
+       height="250"; 
+        }
+.colo3{background-image:url("blue.jpg"); width="1700";
+       height="250";}
+.colo4{background-image:url("background56.jpg"); width="1700";
+       height="250";}
+.colo5{background-image:url("background52.jpg"); width="1700";
+       height="250";}
+.font7{font:bold 36pt Wide Latin }	 
+.color7{color:0099ff}  

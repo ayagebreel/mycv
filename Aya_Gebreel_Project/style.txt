@@ -1,0 +1,23 @@
+#colo{background-color:pink;}
+.colo2{background-image:url("background25.jpg"); width="1700";
+       height="250"; 
+        }
+.colorlink{color:000066;}
+.bold {font-weight: bold ;}
+.colorlink2{color:0066ff;}
+.colorpages{color:00ff33;}
+.font{font:bold 24pt castellar;}
+.color5{color:0000cc;}
+.marginbottom{margin-bottom:10%;}
+.marginright{margin-right:80%;}
+.marginleft{margin-left:10%;}
+.float1{float:left; width:20%;}
+.float2{float:left; width:60%;}
+.clear{clear:both;}
+a:hover {color:#FF00FF;  background-color: 00cccc; width:5%} 
+.float3{float:left; width:30%;}
+.float4{float:left; width:40%;} 
+.font2{font:bold 24pt Comic Sans MS;}
+.marginleft2{margin-left:20%;}
+
+
